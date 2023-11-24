@@ -1,0 +1,5 @@
+{
+    "consumer_key": "tu_consumer_key",
+    "consumer_secret": "tu_consumer_secret",
+    "woocommerce_url": "https://tu-tienda.com/wp-json/wc/v3/"
+}
